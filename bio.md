@@ -1,4 +1,4 @@
-OA---
+---
 layout: page
 title: Publications
 ---
