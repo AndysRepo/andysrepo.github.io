@@ -7,7 +7,7 @@ title: Teaching
 <p align=center>
 Academic Year: 2023/2024
 
-I'll be co-lecturer, together with Prof. Attilio V. Vargiu, for the course named "Models and Methods for Computational Biophysics" (3 CFU) taught at Cagliari University (Italy). 
+<p>I'll be co-lecturer, together with Prof. Attilio V. Vargiu, for the course named "Models and Methods for Computational Biophysics" (3 CFU) taught at Cagliari University (Italy). 
 
 </p>
 
