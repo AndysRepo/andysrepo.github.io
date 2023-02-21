@@ -38,8 +38,8 @@ In this context, the machine learning module was thought to give the students an
 • Performance evaluation: the confusion matrix. Sensitivity, specificity, precision and accuracy metrics; <br>
 • K-Nearest Neighbors (KNN) and Support-Vector Machines (SVM) models (theory and examples); <br>
 • Introduction to python libraries for ML applications (with worked examples); <br>
-• *Practical tutorial* (unsupervised learning): clustering protein conformations with the K-means algorithm; <br>
-• *Practical tutorial* (supervised learning): predicting protein families from DNA sequences of different organisms. <br>
+• <u>Practical tutorial</u> (unsupervised learning): clustering protein conformations with the K-means algorithm; <br>
+• <u>Practical tutorial</u> (supervised learning): predicting protein families from DNA sequences of different organisms. <br>
 
 
 
