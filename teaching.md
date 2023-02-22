@@ -7,18 +7,21 @@ title: Teaching
 <p align=center>
 Academic Year: 2022/2023
 
-<p>In the second semester, I'll teach a course, together with Prof. Attilio V. Vargiu, named <b>Models and Methods for Computational Biophysics</b> (3 CFU) at Cagliari University (Italy) at the Department of Physics. The course will be divided into three modules as follows:
+<p>In the second semester, I'll teach a course at the Physics Department of Cagliari University (Italy), together with Prof. Attilio V. Vargiu, named <b>Models and Methods for Computational Biophysics</b> (3 CFU). The course will be divided into three modules for which a tentative syllabus is reported below:
 </p>
 
 <p>
-- Module I -
-
+- Module I - <br>
+</p>
+<p>
 • Introduction to structure and dynamics of proteins and to their mutual interactions; <br>
 • Introduction to protein-protein and protein-ligand binding; <br>
 • <u>Practical tutorial</u>: the VMD software for protein structure and dynamics visualization; <br>
-
+</p>
+<p>
 - Module II - <br>
-
+</p>
+<p>
 • Introduction to machine and deep learning; <br>
 • Unsupervised vs supervised learning: similarities and differences;<br>
 • Clustering algorithms (hierarchical and partitioning methods); <br>
@@ -29,20 +32,22 @@ Academic Year: 2022/2023
 • Introduction to Neural Networks and Deep Learning;<br>
 • <u>Practical tutorial</u> (unsupervised learning): clustering protein conformations with the K-means algorithm; <br>
 • <u>Practical tutorial</u> (supervised learning): SVM and RF models to predict ligand-protein complex stability. <br>
-
+</p>
+<p>
 - Module III - <br>
-
+</p>
+<p>
 • Introduction to molecular recognition and molecular docking; <br>
 • <u>Practical tutorial</u>: run docking calculation with the software "GNINA"; <br>
 • <u>Practical tutorial</u>: analyze and process docking results. <br>
-
+</p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p align=center>
 
 
 <p>During the first semester, I taught a module named <b>Machine Learning Methods in Computational Biophysics</b> as part of the course of Molecular Modeling of Biological Systems (6 CFU)
-taught at Cagliari University (Italy) by Prof. Attilio V. Vargiu at the Department of Physics.<br>
+taught at Cagliari University (Italy) by Prof. Attilio V. Vargiu.<br>
 In particular, the course <a href="https://unica.it/unica/en/ateneo_s07_ss01_sss02.page?mu=Guide/PaginaADErogata.do?ad_er_id=2022*N0*N0*S1*40674*20723&ANNO_\ACCADEMICO=2022&mostra_percorsi=S">(here the link to the syllabus)</a> is thought to give a broad overview of different techniques routinely used in computational biophysics, such as protein sequence alignment, molecular dynamics simulations and molecular docking.
 In this context, the machine learning module was thought to give the students an insight into the capabilities of machine learning algorithms when applied to study the biophysical world.
 </p>
