@@ -30,7 +30,7 @@ Academic Year: 2022/2023
 • Supervised learning: classification vs. regression tasks; <br>
 • Support-Vector Machine (SVM) and Random Forest (RF) models; <br>
 • Introduction to Neural Networks and Deep Learning;<br>
-• <u>Practical tutorial</u> (unsupervised learning): clustering protein conformations with the K-means algorithm; <br>
+• <u>Practical tutorial</u> (unsupervised learning): clustering protein conformations with the <br>K-means algorithm; <br>
 • <u>Practical tutorial</u> (supervised learning): SVM and RF models to predict ligand-protein complex stability. <br>
 </p>
 <p>
