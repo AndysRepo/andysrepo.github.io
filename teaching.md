@@ -25,8 +25,8 @@ Academic Year: 2022/2023
 • Introduction to machine and deep learning; <br>
 • Unsupervised vs supervised learning: similarities and differences;<br>
 • Clustering algorithms (hierarchical and partitioning methods); <br>
-• Introduction to Principal Component Analysis (PCA); <br> 
 • The K-means algorithm: theory and examples;<br>
+• Introduction to Principal Component Analysis (PCA); <br> 
 • Supervised learning: classification vs. regression tasks; <br>
 • Support-Vector Machine (SVM) and Random Forest (RF) models; <br>
 • Introduction to Neural Networks and Deep Learning;<br>
