@@ -16,7 +16,7 @@ Academic Year: 2022/2023
 <p>
 • Introduction to structure and dynamics of proteins and to their mutual interactions; <br>
 • Introduction to protein-protein and protein-ligand binding; <br>
-• <u>Practical tutorial</u>: play with the VMD software for protein structure and dynamics visualization; <br>
+• <u>Practical tutorial</u>: play with the VMD software for protein structure and dynamics visualization. <br>
 </p>
 <p>
 - Module II - <br>
