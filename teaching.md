@@ -11,7 +11,7 @@ Academic Year: 2022/2023
 </p>
 
 <p>
-- Module I - <br>
+- Module I: <u>structure and function of proteins </u> - <br>
 </p>
 <p>
 • Introduction to structure and dynamics of proteins and to their mutual interactions; <br>
@@ -19,7 +19,7 @@ Academic Year: 2022/2023
 • <u>Practical tutorial</u>: play with the VMD software for protein structure and dynamics visualization. <br>
 </p>
 <p>
-- Module II - <br>
+- Module II: <u> machine (deep) learning </u> <br>
 </p>
 <p>
 • Introduction to machine and deep learning; <br>
@@ -34,7 +34,7 @@ Academic Year: 2022/2023
 • <u>Practical tutorial</u> (supervised learning): SVM and RF models to predict ligand-protein complex stability. <br>
 </p>
 <p>
-- Module III - <br>
+- Module III: <u> protein-ligand docking </u> - <br>
 </p>
 <p>
 • Introduction to molecular recognition and molecular docking; <br>
