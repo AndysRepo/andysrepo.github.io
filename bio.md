@@ -12,8 +12,7 @@ Graduated in Physics, since my bachelor’s degree, I realized computational phy
 </p>
 
 <p align="justify">
-<p>Then I remained in the same field also for my master’s degree thesis, this time working on a computational protocol to improve the predictive power of molecular docking, a technique used to reproduce the three-dimensional structures of protein-ligand complexes starting from the unbound partners (see <u>EDES tutorial</u> in the <a h\
-ref="https://andysrepo.github.io/projects">Project page</a>). I went on working on the same project also during my Ph.D., which I ended in early 2020. 
+<p>Then I remained in the same field also for my master’s degree thesis, this time working on a computational protocol to improve the predictive power of molecular docking, a technique used to reproduce the three-dimensional structures of protein-ligand complexes starting from the unbound partners (check "EDES tutorial" in the <a href="https://andysrepo.github.io/projects">Project page</a>). I went on working on the same project also during my Ph.D., which I ended in early 2020. 
 </p>
 <p align="justify">
 <p>Later that year, I started becoming intrigued by “Machine Learning" and its manifold applications. For this reason, I enrolled in a postgraduate specialization in "Machine Learning and Big Data for Biomedical applications", offered by the University of Padua, from which I graduated in September 2022. <br>
