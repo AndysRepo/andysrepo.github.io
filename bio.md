@@ -4,7 +4,7 @@ title: Biography
 ---
 ---
 
-<p align="justify>
+<p align="justify">
 
 <p>I am a Post-Doctoral Researcher at the University of Cagliari (Italy), working at the Physics Department, in the <a href="https://molmod.dsf.unica.it/people">“Molecular Modelling” group</a>. <br>
 
