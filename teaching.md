@@ -26,7 +26,7 @@ A tentative syllabus for the whole course is reported below:
 • Introduction to machine and deep learning; <br>
 • Unsupervised vs supervised learning: similarities and differences;<br>
 • Clustering algorithms (hierarchical and partitioning methods); <br>
-• The K-means algorithm: theory and examples.
+• The K-means algorithm: theory and examples. <br>
 • Defining the optimal number of clusters with the "Elbow" method; <br>
 • Introduction to Principal Component Analysis (PCA); <br> 
 • Supervised learning: classification vs. regression tasks; <br>
