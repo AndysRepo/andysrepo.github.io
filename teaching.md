@@ -1,4 +1,4 @@
----
+---A
 layout: page
 title: Teaching
 ---
@@ -7,7 +7,8 @@ title: Teaching
 <p align=center>
 Academic Year: 2022/2023
 
-<p>In the second semester, I'll teach a course at the Physics Department of Cagliari University (Italy), together with Prof. Attilio V. Vargiu, named <b>Models and Methods for Computational Biophysics</b> (3 CFU). The course will be divided into three modules for which a tentative syllabus is reported below:
+<p>In the second semester, I'll teach the <u>machine (deep) learning module</u> of the course <b>Models and Methods for Computational Biophysics</b> (3 CFU) at the Physics Department of Cagliari University (Italy). The remaining modules will be taught by Prof. Attilio V. Vargiu.
+A tentative syllabus for the whole course is reported below:
 </p>
 
 <p>
@@ -25,7 +26,8 @@ Academic Year: 2022/2023
 • Introduction to machine and deep learning; <br>
 • Unsupervised vs supervised learning: similarities and differences;<br>
 • Clustering algorithms (hierarchical and partitioning methods); <br>
-• The K-means algorithm: theory and examples. Defining the optimal number of clusters with the "Elbow" method; <br>
+• The K-means algorithm: theory and examples.
+• Defining the optimal number of clusters with the "Elbow" method; <br>
 • Introduction to Principal Component Analysis (PCA); <br> 
 • Supervised learning: classification vs. regression tasks; <br>
 • Building the model: training, validation and test sets; <br>
