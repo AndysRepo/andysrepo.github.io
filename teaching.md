@@ -7,7 +7,7 @@ title: Teaching
 <p align=center>
 Academic Year: 2022/2023
 
-<p>In the second semester, I'll teach the <u>machine (deep) learning module</u> of the course <b>Models and Methods for Computational Biophysics</b> (3 CFU) at the Physics Department of Cagliari University (Italy). The remaining modules will be taught by Prof. Attilio V. Vargiu.
+<p>In the second semester, I'll teach the <u>machine (deep) learning module</u> of the course <b>Models and Methods for Computational Biophysics</b> at the Physics Department of Cagliari University (Italy). The remaining modules will be taught by Prof. Attilio V. Vargiu.
 A tentative syllabus for the whole course is reported below:
 </p>
 
